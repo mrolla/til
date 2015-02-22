@@ -1,4 +1,8 @@
 #Git
+
+### Show file content at a commit
+    git show <sha1-of-commit>:path/of/file
+
 ### Remove local untracked files
     git clean -f
 
